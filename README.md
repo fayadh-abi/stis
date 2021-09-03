@@ -1,2 +1,2 @@
 # /STIS
-My repository that's contains some my study at Politeknik Statistika STIS. :) 
+My repository that's contains some stuff about my study at Politeknik Statistika STIS. :) 
